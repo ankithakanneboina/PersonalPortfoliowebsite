@@ -125,11 +125,8 @@ git clone https://github.com/yourusername/portfolio.git
 # Navigate to the project folder
 cd portfolio
 
-# If using React or Vite
-npm install
+run through liveserve or webbrowser
 
-# Run the development server
-npm run dev
 
 💌 Contact
 
@@ -143,6 +140,5 @@ I’d love to connect with recruiters, collaborators, and fellow developers!
 
 🌐 Portfolio Live: your-portfolio-link.netlify.app
 This project is open source and available under the MIT License
-.
 
-└── README.md
+
