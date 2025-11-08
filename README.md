@@ -117,12 +117,11 @@ Version Control	Git & GitHub
 
 ⚙️ Setup & Installation
 
-Clone and run the project locally 👇
 
-# Clone the repository
-git clone https://github.com/yourusername/portfolio.git
+how to run project:
 
-# Navigate to the project folder
+git clone https://github.com/ankithakanneboina/personalportfoliowebsite.git
+
 cd portfolio
 
 run through liveserve or webbrowser
